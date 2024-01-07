@@ -18,7 +18,7 @@ This repository contains the solutions of Homework 5 from the Group #20:
         </tr>
         <tr>
             <td>Ana Branescu</td>
-            <td>ana.branescu03</td>
+            <td>ana.branescu03@gmail.com</td>
         </tr>
         <tr>
             <td>Federico Alvetreti</td>
