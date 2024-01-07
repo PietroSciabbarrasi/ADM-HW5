@@ -13,7 +13,7 @@ This repository contains the solutions of Homework 5 from the Group #20:
             <td>sciabbarrasi.1970875@studenti.uniroma1.it</td>
         </tr>
         <tr>
-            <td>Ashish Pokhrel</td>
+            <td>Ashish Upadhaya</td>
             <td>upadhaya.2047672@studenti.uniroma1.it</td>
         </tr>
         <tr>
