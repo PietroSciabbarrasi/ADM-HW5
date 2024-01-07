@@ -27,5 +27,6 @@ This repository contains the solutions of Homework 5 from the Group #20:
 </div>
 
 The file `main.ipynb` is the main notebook containg all question answers.
+
 `CommandLine.sh` contains the bash code for Command Line question.
 
