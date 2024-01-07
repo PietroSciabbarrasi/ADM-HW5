@@ -30,3 +30,6 @@ The file `main.ipynb` is the main notebook containg all question answers.
 
 `CommandLine.sh` contains the bash code for Command Line question.
 
+`Command_line_output.png` is the screenshot of the command line question output.
+
+`citation_graph.txt` is the input file for the command line question.
