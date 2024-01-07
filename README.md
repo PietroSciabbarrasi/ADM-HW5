@@ -5,7 +5,7 @@ This repository contains the solutions of Homework 5 from the Group #20:
 <div style="float: left;">
     <table>
         <tr>
-            <th>Student</th>
+            <th>Name</th>
             <th>E-Mail</th>
         </tr>
         <tr>
