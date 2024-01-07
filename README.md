@@ -33,3 +33,5 @@ The file `main.ipynb` is the main notebook containg all question answers.
 `Command_line_output.png` is the screenshot of the command line question output.
 
 `citation_graph.txt` is the input file for the command line question.
+
+`AQ_inputs.json` contains the inputs for the algorithmic question.
